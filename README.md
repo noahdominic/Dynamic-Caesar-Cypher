@@ -1,6 +1,6 @@
 # Dynamic-Caesar-Cypher
 
-<em> DISCLAIMER: THIS PROJECT DOES NOT CLAIM TO REVOLUTIONISE THE FIELD OF CRYPTOLOGY, AND THIS ENCRYPTION METHOD PROVIDES ABSOLUTELY NO SECURITY. THIS IS, HOWEVER, A FUN LITTLE PROJECT I MADE WHILE WAITING FOR MY COFFEE AT STARBUCKS </em>
+<p style="font-size: small"> <em> DISCLAIMER: THIS PROJECT DOES NOT CLAIM TO REVOLUTIONISE THE FIELD OF CRYPTOLOGY, AND THIS ENCRYPTION METHOD PROVIDES ABSOLUTELY NO SECURITY. THIS IS, HOWEVER, A FUN LITTLE PROJECT I MADE WHILE WAITING FOR MY COFFEE AT STARBUCKS </em> </p>
 <br/>
 <p> A Caesar Cypher is a shifting cypher achieved by shifting the alphabet some number of times. For example, given a right shift value of 3, works as follows: (A:D ; B:E ; C:F). Unfortunately, being one of the simplest encryption techniques, it has its limitations. </p> 
 <br/>
