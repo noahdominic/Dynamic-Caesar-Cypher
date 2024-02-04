@@ -14,7 +14,7 @@ This dynamic version of the Caesar cypher attempts to remedy this with a simple 
 
 ## Licence
 
-This project is licensed under the MIT Licence. See [LICENCE](LICENCE) for details.
+This project is licensed under the BSD 2-clause Licence. See [LICENCE](LICENCE) for details.
 
 [^1]: 'Tabula recta', _Wikipedia_, 2020 Mar. 09. https://en.wikipedia.org/wiki/Tabula_recta
 [^2]: D. Kahn, The codebreakers : the comprehensive history of secret communication from ancient times to the Internet, 2nd ed. New York: Scribner’s And Sons, 1996, p. 133.
